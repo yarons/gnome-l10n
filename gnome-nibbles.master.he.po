@@ -1,0 +1,578 @@
+# translation of gnome-games.HEAD.he.po to Hebrew
+# translation of gnome-games.gnome-2-0.he.po to Hebrew
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# Gil 'Dolfin' Osher <dolfin@rpg.org.il>, 2002,2003
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2010.
+# Yosef Or Boczko <yoseforb@gnome.org>, 2015, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games.HEAD.he\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-nibbles/issues\n"
+"POT-Creation-Date: 2020-05-15 12:47+0000\n"
+"PO-Revision-Date: 2016-08-14 17:02+0300\n"
+"Last-Translator: Yosef Or Boczko <yoseforb@gnome.org>\n"
+"Language-Team: עברית <>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural= (n!=1);\n"
+"X-Generator: Gtranslator 2.91.7\n"
+"X-Launchpad-Export-Date: 2008-01-13 04:36+0000\n"
+"X-Poedit-Language: Hebrew\n"
+
+#: data/controls-grid.ui:12
+msgid "Player"
+msgstr "שחקן"
+
+#: data/nibbles.ui:6
+msgid "_Scores"
+msgstr "_תוצאות"
+
+#: data/nibbles.ui:12
+msgid "_Preferences"
+msgstr "ה_עדפות"
+
+#: data/nibbles.ui:16
+msgid "_Help"
+msgstr "ע_זרה"
+
+#: data/nibbles.ui:21
+#, fuzzy
+#| msgid "Nibbles"
+msgid "_About Nibbles"
+msgstr "כרסומים"
+
+#: data/nibbles.ui:28 data/nibbles.ui:72 data/org.gnome.Nibbles.desktop.in:3
+#: src/gnome-nibbles.vala:137 src/gnome-nibbles.vala:543
+#: src/gnome-nibbles.vala:1065
+msgid "Nibbles"
+msgstr "כרסומים"
+
+#: data/nibbles.ui:34 src/gnome-nibbles.vala:428
+msgid "_New Game"
+msgstr "_משחק חדש"
+
+#: data/nibbles.ui:45 src/gnome-nibbles.vala:461
+msgid "_Pause"
+msgstr "ה_שהייה"
+
+#: data/nibbles.ui:100
+#, fuzzy
+#| msgid "Let's _Play"
+msgid "Let’s _Play"
+msgstr "לה_תחיל לשחק!"
+
+#: data/nibbles.ui:136
+msgid "Welcome, worms."
+msgstr "ברוכים הבאים, תולעים."
+
+#: data/nibbles.ui:146
+#, fuzzy
+#| msgid "Eat the treats before the other worms, but don't hit anything!"
+msgid "Eat the treats before the other worms, but don’t hit anything!"
+msgstr "יש לאכול את הפינוקים לפני התולעים האחרות, אך מבלי לפגוע באף אחת!"
+
+#: data/nibbles.ui:184
+msgid "Number of players"
+msgstr "מספר השחקנים"
+
+#: data/nibbles.ui:198
+msgid "Select the number of human players."
+msgstr "יש לבחור את מספר השחקנים האנושיים"
+
+#: data/nibbles.ui:274
+msgid "Select the number of computer players."
+msgstr "יש לבחור את מספר שחקני המחשב"
+
+#: data/nibbles.ui:375
+msgid "_Next"
+msgstr "ה_בא"
+
+#: data/nibbles.ui:407 data/preferences-dialog.ui:191
+#: data/preferences-dialog.ui:286 data/preferences-dialog.ui:381
+#: data/preferences-dialog.ui:476
+msgid "Controls"
+msgstr "שליטה"
+
+#: data/nibbles.ui:427
+msgid "_Start"
+msgstr "ה_תחלה"
+
+#: data/nibbles.ui:471
+msgid "Paused"
+msgstr "הושהה"
+
+#: data/org.gnome.Nibbles.appdata.xml.in:7
+msgid "GNOME Nibbles"
+msgstr "כרסומים GNOME"
+
+#: data/org.gnome.Nibbles.appdata.xml.in:8 data/org.gnome.Nibbles.desktop.in:4
+msgid "Guide a worm around a maze"
+msgstr "הדרכת תולעת במבוך"
+
+#: data/org.gnome.Nibbles.appdata.xml.in:10
+#, fuzzy
+#| msgid ""
+#| "Control a worm in its quest to eat bonuses and become longer. Outmaneuver "
+#| "enemy worms while eating doughnuts and ice cream to increase your length. "
+#| "Each worm has ten lives and loses one by running into a wall, another "
+#| "worm, or itself. The enemy worms are after the same bonuses that you are, "
+#| "so be careful: if they become too large, you won't have much room for "
+#| "movement."
+msgid ""
+"Control a worm in its quest to eat bonuses and become longer. Outmaneuver "
+"enemy worms while eating doughnuts and ice cream to increase your length. "
+"Each worm has ten lives and loses one by running into a wall, another worm, "
+"or itself. The enemy worms are after the same bonuses that you are, so be "
+"careful: if they become too large, you won’t have much room for movement."
+msgstr ""
+"לשלוט בתולעת במשימתה לאכול בונוסים ולהתארך. להתגבר על תולעי אויב בזמן אכילת "
+"סופגניות וגלידות על מננת להגביר את קצב הגדילה. כל תולעת עשר חיים ומאבדת חיים "
+"בהתנגשות בקיר, בתולעת אחרת או בעצמה. תולעי האויב הולכות אחרי אותם הבונוסים "
+"שהתולעת שלך אחריה, כך יש להיזהר: אם הם נהיים ארוכים מדי, לא יהיה לך מספיק "
+"מרווח לתזוזה."
+
+#: data/org.gnome.Nibbles.appdata.xml.in:17
+msgid ""
+"The adventure progresses through 26 maps of increasing difficulty. The early "
+"levels are mostly open with a few walls, but later on, cramped spaces and "
+"teleporters make things more interesting."
+msgstr ""
+"ההרפתקה עוברת דרך 26 מפות בקושי הולך וגדל. השלבים הראשונים לרוב נפתחים עם "
+"מספר בודד של תולעים, אך לאחר מכן המרווח מצטמצם ומעבר במרחב עושה את הדברים "
+"למעניינים יותר."
+
+#: data/org.gnome.Nibbles.appdata.xml.in:22
+msgid ""
+"Play on your own against up to five enemy worms, or share your keyboard to "
+"play with a friend."
+msgstr ""
+"שחק בעצמיך אל מול עד חמש תולעי אויב, או שתף את המקלדת שלך לשחק עם חברים."
+
+#: data/org.gnome.Nibbles.appdata.xml.in:52
+msgid "The GNOME Project"
+msgstr "מיזם GNOME"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.Nibbles.desktop.in:6
+msgid "game;snake;board;"
+msgstr "משחק;נחש;תולעת;לוח;מבוך;"
+
+#: data/org.gnome.nibbles.gschema.xml:13
+msgid "Width of the window in pixels"
+msgstr "Width of the window in pixels"
+
+#: data/org.gnome.nibbles.gschema.xml:14
+msgid "Width of the window in pixels."
+msgstr "Width of the window in pixels."
+
+#: data/org.gnome.nibbles.gschema.xml:18
+msgid "Height of the window in pixels"
+msgstr "Height of the window in pixels"
+
+#: data/org.gnome.nibbles.gschema.xml:19
+msgid "Height of the window in pixels."
+msgstr "Height of the window in pixels."
+
+#: data/org.gnome.nibbles.gschema.xml:23
+msgid "true if the window is maximized"
+msgstr "true if the window is maximized"
+
+#: data/org.gnome.nibbles.gschema.xml:24
+msgid "true if the window is maximized."
+msgstr "true if the window is maximized."
+
+#: data/org.gnome.nibbles.gschema.xml:28
+msgid "Is this the first run"
+msgstr "Is this the first run"
+
+#: data/org.gnome.nibbles.gschema.xml:29
+msgid "Setting to decide whether to show first-run hint dialog or not."
+msgstr "Setting to decide whether to show first-run hint dialog or not."
+
+#: data/org.gnome.nibbles.gschema.xml:34
+msgid "Size of game tiles"
+msgstr "Size of game tiles"
+
+#: data/org.gnome.nibbles.gschema.xml:35
+msgid "Size of game tiles."
+msgstr "Size of game tiles."
+
+#: data/org.gnome.nibbles.gschema.xml:40
+msgid "Game level to start on"
+msgstr "Game level to start on"
+
+#: data/org.gnome.nibbles.gschema.xml:41
+msgid "Game level to start on."
+msgstr "Game level to start on."
+
+#: data/org.gnome.nibbles.gschema.xml:46
+msgid "Worms movement speed"
+msgstr "Worms movement speed"
+
+#: data/org.gnome.nibbles.gschema.xml:47
+msgid "Worms movement speed."
+msgstr "Worms movement speed."
+
+#: data/org.gnome.nibbles.gschema.xml:51
+msgid "Enable sounds"
+msgstr "Enable sounds"
+
+#: data/org.gnome.nibbles.gschema.xml:52
+msgid "Enable sounds."
+msgstr "Enable sounds."
+
+#: data/org.gnome.nibbles.gschema.xml:56
+msgid "Enable fake bonuses"
+msgstr "Enable fake bonuses"
+
+#: data/org.gnome.nibbles.gschema.xml:57
+msgid "Enable fake bonuses."
+msgstr "Enable fake bonuses."
+
+#: data/org.gnome.nibbles.gschema.xml:62
+msgid "Number of human players"
+msgstr "Number of human players"
+
+#: data/org.gnome.nibbles.gschema.xml:63
+msgid "Number of human players."
+msgstr "Number of human players."
+
+#: data/org.gnome.nibbles.gschema.xml:68
+msgid "Number of AI players"
+msgstr "Number of AI players"
+
+#: data/org.gnome.nibbles.gschema.xml:69
+msgid "Number of AI players."
+msgstr "Number of AI players."
+
+#: data/org.gnome.nibbles.gschema.xml:75 data/org.gnome.nibbles.gschema.xml:102
+#: data/org.gnome.nibbles.gschema.xml:129
+#: data/org.gnome.nibbles.gschema.xml:156
+#: data/org.gnome.nibbles.gschema.xml:183
+#: data/org.gnome.nibbles.gschema.xml:210
+msgid "Color to use for worm"
+msgstr "Color to use for worm"
+
+#: data/org.gnome.nibbles.gschema.xml:76 data/org.gnome.nibbles.gschema.xml:103
+#: data/org.gnome.nibbles.gschema.xml:130
+#: data/org.gnome.nibbles.gschema.xml:157
+#: data/org.gnome.nibbles.gschema.xml:184
+#: data/org.gnome.nibbles.gschema.xml:211
+msgid "Color to use for worm."
+msgstr "Color to use for worm."
+
+#: data/org.gnome.nibbles.gschema.xml:80 data/org.gnome.nibbles.gschema.xml:107
+#: data/org.gnome.nibbles.gschema.xml:134
+#: data/org.gnome.nibbles.gschema.xml:161
+#: data/org.gnome.nibbles.gschema.xml:188
+#: data/org.gnome.nibbles.gschema.xml:215 src/preferences-dialog.vala:128
+msgid "Move up"
+msgstr "הזזה למעלה"
+
+#: data/org.gnome.nibbles.gschema.xml:81 data/org.gnome.nibbles.gschema.xml:108
+#: data/org.gnome.nibbles.gschema.xml:135
+#: data/org.gnome.nibbles.gschema.xml:162
+#: data/org.gnome.nibbles.gschema.xml:189
+#: data/org.gnome.nibbles.gschema.xml:216
+msgid "Key to use for motion up."
+msgstr "Key to use for motion up."
+
+#: data/org.gnome.nibbles.gschema.xml:85 data/org.gnome.nibbles.gschema.xml:112
+#: data/org.gnome.nibbles.gschema.xml:139
+#: data/org.gnome.nibbles.gschema.xml:166
+#: data/org.gnome.nibbles.gschema.xml:193
+#: data/org.gnome.nibbles.gschema.xml:220 src/preferences-dialog.vala:131
+msgid "Move down"
+msgstr "הזזה למטה"
+
+#: data/org.gnome.nibbles.gschema.xml:86 data/org.gnome.nibbles.gschema.xml:113
+#: data/org.gnome.nibbles.gschema.xml:140
+#: data/org.gnome.nibbles.gschema.xml:167
+#: data/org.gnome.nibbles.gschema.xml:194
+#: data/org.gnome.nibbles.gschema.xml:221
+msgid "Key to use for motion down."
+msgstr "Key to use for motion down."
+
+#: data/org.gnome.nibbles.gschema.xml:90 data/org.gnome.nibbles.gschema.xml:117
+#: data/org.gnome.nibbles.gschema.xml:144
+#: data/org.gnome.nibbles.gschema.xml:171
+#: data/org.gnome.nibbles.gschema.xml:198
+#: data/org.gnome.nibbles.gschema.xml:225 src/preferences-dialog.vala:134
+msgid "Move left"
+msgstr "הזזה שמאלה"
+
+#: data/org.gnome.nibbles.gschema.xml:91 data/org.gnome.nibbles.gschema.xml:118
+#: data/org.gnome.nibbles.gschema.xml:145
+#: data/org.gnome.nibbles.gschema.xml:172
+#: data/org.gnome.nibbles.gschema.xml:199
+#: data/org.gnome.nibbles.gschema.xml:226
+msgid "Key to use for motion left."
+msgstr "Key to use for motion left."
+
+#: data/org.gnome.nibbles.gschema.xml:95 data/org.gnome.nibbles.gschema.xml:122
+#: data/org.gnome.nibbles.gschema.xml:149
+#: data/org.gnome.nibbles.gschema.xml:176
+#: data/org.gnome.nibbles.gschema.xml:203
+#: data/org.gnome.nibbles.gschema.xml:230 src/preferences-dialog.vala:137
+msgid "Move right"
+msgstr "הזזה ימינה"
+
+#: data/org.gnome.nibbles.gschema.xml:96 data/org.gnome.nibbles.gschema.xml:123
+#: data/org.gnome.nibbles.gschema.xml:150
+#: data/org.gnome.nibbles.gschema.xml:177
+#: data/org.gnome.nibbles.gschema.xml:204
+#: data/org.gnome.nibbles.gschema.xml:231
+msgid "Key to use for motion right."
+msgstr "Key to use for motion right."
+
+#: data/player-score-box.ui:15
+msgid "Worm"
+msgstr "תולעת"
+
+#: data/preferences-dialog.ui:7
+msgid "Preferences"
+msgstr "העדפות"
+
+#: data/preferences-dialog.ui:35
+msgid "Speed"
+msgstr "מהירות"
+
+#: data/preferences-dialog.ui:52
+msgid "_Beginner"
+msgstr "_מתחיל"
+
+#: data/preferences-dialog.ui:67
+msgid "_Slow"
+msgstr "_איטי"
+
+#: data/preferences-dialog.ui:83
+msgid "_Medium"
+msgstr "_בינוני"
+
+#: data/preferences-dialog.ui:99
+msgid "_Fast"
+msgstr "_מהיר"
+
+#: data/preferences-dialog.ui:126
+msgid "Options"
+msgstr "אפשרויות"
+
+#: data/preferences-dialog.ui:143
+msgid "E_nable sounds"
+msgstr "א_פשר צלילים"
+
+#: data/preferences-dialog.ui:155
+msgid "_Enable fake bonuses"
+msgstr "הפעלת בונוסים מ_זויפים"
+
+#: data/preferences-dialog.ui:174
+msgid "_General"
+msgstr "_כללי"
+
+#: data/preferences-dialog.ui:237 data/preferences-dialog.ui:332
+#: data/preferences-dialog.ui:427 data/preferences-dialog.ui:522
+msgid "Worm color"
+msgstr "_צבע תולעת"
+
+#: data/preferences-dialog.ui:269
+msgid "Worm _1"
+msgstr "תולעת _1"
+
+#: data/preferences-dialog.ui:364
+msgid "Worm _2"
+msgstr "תולעת _2"
+
+#: data/preferences-dialog.ui:459
+msgid "Worm _3"
+msgstr "תולעת _3"
+
+#: data/preferences-dialog.ui:554
+msgid "Worm _4"
+msgstr "תולעת _4"
+
+#. Help string for command line --version flag
+#: src/gnome-nibbles.vala:104
+msgid "Show release version"
+msgstr "Show release version"
+
+#: src/gnome-nibbles.vala:424
+msgid "Are you sure you want to start a new game?"
+msgstr "האם אכן ברצונך להתחיל משחק חדש?"
+
+#: src/gnome-nibbles.vala:425
+msgid "If you start a new game, the current one will be lost."
+msgstr "אם בחירתך תהיה להתחיל משחק חדש, המשחק הנוכחי יאבד."
+
+#: src/gnome-nibbles.vala:456
+msgid "_Resume"
+msgstr "לה_משיך"
+
+#: src/gnome-nibbles.vala:627 src/gnome-nibbles.vala:916
+#, c-format
+msgid "Level %d"
+msgstr "רמה %d"
+
+#. Translators: Difficulty level displayed on the scores dialog
+#: src/gnome-nibbles.vala:776
+msgid "Beginner"
+msgstr "מתחיל"
+
+#. Translators: Difficulty level displayed on the scores dialog
+#: src/gnome-nibbles.vala:778
+msgid "Slow"
+msgstr "איטי"
+
+#. Translators: Difficulty level displayed on the scores dialog
+#: src/gnome-nibbles.vala:780
+msgid "Medium"
+msgstr "בינוני"
+
+#. Translators: Difficulty level displayed on the scores dialog
+#: src/gnome-nibbles.vala:782
+msgid "Fast"
+msgstr "מהיר"
+
+#. Translators: Difficulty level with fake bonuses, displayed on the scores dialog
+#: src/gnome-nibbles.vala:784
+msgid "Beginner with Fakes"
+msgstr "מתחיל עם זיופים"
+
+#. Translators: Difficulty level with fake bonuses, displayed on the scores dialog
+#: src/gnome-nibbles.vala:786
+msgid "Slow with Fakes"
+msgstr "איטי עם זיופים"
+
+#. Translators: Difficulty level with fake bonuses, displayed on the scores dialog
+#: src/gnome-nibbles.vala:788
+msgid "Medium with Fakes"
+msgstr "בינוני עם זיופים"
+
+#. Translators: Difficulty level with fake bonuses, displayed on the scores dialog
+#: src/gnome-nibbles.vala:790
+msgid "Fast with Fakes"
+msgstr "מהיר עם זיופים"
+
+#. Displayed on the scores dialog, preceeding a difficulty.
+#: src/gnome-nibbles.vala:795
+msgid "Difficulty Level:"
+msgstr "רמת קושי:"
+
+#. Translators: the %d is the number of the level that was completed.
+#: src/gnome-nibbles.vala:898
+#, c-format
+msgid "Level %d Completed!"
+msgstr "שלב %d הושלם!"
+
+#: src/gnome-nibbles.vala:905
+msgid "_Next Level"
+msgstr "שלב ה_בא"
+
+#: src/gnome-nibbles.vala:973
+msgid "Congratulations!"
+msgstr "ברכות!"
+
+#: src/gnome-nibbles.vala:973
+msgid "Game Over!"
+msgstr "המשחק הסתיים!"
+
+#: src/gnome-nibbles.vala:980
+msgid "You have completed the game."
+msgstr "השלמת את המשחק."
+
+#: src/gnome-nibbles.vala:987
+#, c-format
+msgid "%d Point"
+msgid_plural "%d Points"
+msgstr[0] "נקודה אחת"
+msgstr[1] "%d נקודות"
+
+#: src/gnome-nibbles.vala:997
+#, c-format
+msgid "(%ld more points to reach the leaderboard)"
+msgstr "(עוד %ld נקודות כדי להשיג את המוביל)"
+
+#: src/gnome-nibbles.vala:1003
+msgid "_Play Again"
+msgstr "ל_שחק שוב"
+
+#: src/gnome-nibbles.vala:1068
+msgid "A worm game for GNOME"
+msgstr "משחק תולעת ל־GNOME"
+
+#: src/gnome-nibbles.vala:1077
+msgid "translator-credits"
+msgstr ""
+"גיל אשר <dolfin@rpg.org.il>\n"
+"יאיר הרשקוביץ <yairhr@gmail.com>\n"
+"‏Hezy Amiel https://launchpad.net/~hezy\n"
+"‏Revan https://launchpad.net/~mark125\n"
+"‏Yaniv Abir https://launchpad.net/~yanivabir\n"
+"‏dod_basim https://launchpad.net/~yoav-prat\n"
+"ירון שהרבני <sh.yaron@gmail.com>\n"
+"יוסף אור בוצ׳קו <yoseforb@gnome.org>\n"
+"\n"
+"פרויקט תרגום GNOME לעברית:\n"
+"‏http://gnome-il.berlios.de"
+
+#. FIXME: Consider changing this to "Worm %d"
+#. * It's set to "Player %d" for now to avoid a string change for 3.20.
+#.
+#. Translators: the player's number, e.g. "Player 1" or "Player 2".
+#: src/gnome-nibbles.vala:1111 src/gnome-nibbles.vala:1229
+#: src/nibbles-view.vala:580
+#, c-format
+msgid "Player %d"
+msgstr "שחקן %d"
+
+#: src/nibbles-view.vala:153
+msgid "red"
+msgstr "אדום"
+
+#: src/nibbles-view.vala:154
+msgid "green"
+msgstr "ירוק"
+
+#: src/nibbles-view.vala:155
+msgid "blue"
+msgstr "כחול"
+
+#: src/nibbles-view.vala:156
+msgid "yellow"
+msgstr "צהוב"
+
+#: src/nibbles-view.vala:157
+msgid "cyan"
+msgstr "ציאן"
+
+#: src/nibbles-view.vala:158
+msgid "purple"
+msgstr "סגול"
+
+#: src/preferences-dialog.vala:140
+msgid "Action"
+msgstr "פעולה"
+
+#: src/preferences-dialog.vala:147
+msgid "Key"
+msgstr "מפתח"
+
+#. Translators: This string appears when one tries to assign an already assigned key
+#: src/preferences-dialog.vala:230
+msgid "The key you selected is already assigned!"
+msgstr "המפתח הנבחר כבר הוקצה!"
+
+#~ msgid "_About"
+#~ msgstr "על _אודות"
+
+#~ msgid "_Quit"
+#~ msgstr "י_ציאה"
+
+#~ msgid "Use relative movement"
+#~ msgstr "Use relative movement"
+
+#~ msgid "Use relative movement (ie. left or right only)."
+#~ msgstr "Use relative movement (ie. left or right only)."

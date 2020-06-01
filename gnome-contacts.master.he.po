@@ -1,0 +1,1136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Yosef Or Boczko <yoseforb@gnome.org>, 2013, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gnome-contacts\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-contacts/issues\n"
+"POT-Creation-Date: 2020-05-22 14:26+0000\n"
+"PO-Revision-Date: 2016-08-09 21:30+0300\n"
+"Last-Translator: Yosef Or Boczko <yoseforb@gmail.com>\n"
+"Language-Team: עברית <>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n>2||n==0) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Gtranslator 2.91.6\n"
+
+#: data/org.gnome.Contacts.appdata.xml.in.in:6
+#: data/org.gnome.Contacts.desktop.in.in:3 data/ui/contacts-window.ui:144
+#: data/ui/contacts-window.ui:162 src/contacts-window.vala:234
+msgid "Contacts"
+msgstr "אנשי קשר"
+
+#: data/org.gnome.Contacts.appdata.xml.in.in:7
+#: data/org.gnome.Contacts.desktop.in.in:4
+msgid "A contacts manager for GNOME"
+msgstr "מנהל אנשי קשר עבור GNOME"
+
+#: data/org.gnome.Contacts.appdata.xml.in.in:9
+msgid ""
+"Contacts keeps and organize your contacts information. You can create, edit, "
+"delete and link together pieces of information about your contacts. Contacts "
+"aggregates the details from all your sources providing a centralized place "
+"for managing your contacts."
+msgstr ""
+"אנשי קשר שומר ומארגן את מידע אנשי הקשר שלך. ניתן ליצור, לערוך, למחוק ולקשר "
+"יחד חתיכות של מידע על אודות אנשי הקשר שלך. אנשי קשר אוגר את הפרטים מכל "
+"המקורות שלך לספק מקום מרכזי לניהול אנשי הקשר שלך."
+
+#: data/org.gnome.Contacts.appdata.xml.in.in:15
+msgid ""
+"Contacts will also integrate with online address books and automatically "
+"link contacts from different online sources."
+msgstr ""
+"אנשי קשר גם משולב עם פנקסי כתובות מקוונים ומקשר אנשי קשר באופן אוטומטי "
+"ממקורות מקוונים שונים."
+
+#: data/org.gnome.Contacts.appdata.xml.in.in:433
+msgid "The GNOME Project"
+msgstr ""
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.Contacts.desktop.in.in:6
+msgid "friends;address book;"
+msgstr "חברים;פנקס כתובות;ספר כתובות;אנשי קשר;"
+
+#: data/gtk/help-overlay.ui:9
+msgctxt "shortcut window"
+msgid "Overview"
+msgstr ""
+
+#: data/gtk/help-overlay.ui:14
+#, fuzzy
+#| msgid "_Help"
+msgctxt "shortcut window"
+msgid "Help"
+msgstr "ע_זרה"
+
+#: data/gtk/help-overlay.ui:21
+msgctxt "shortcut window"
+msgid "Open menu"
+msgstr ""
+
+#: data/gtk/help-overlay.ui:28
+#, fuzzy
+#| msgid "Create Contact"
+msgctxt "shortcut window"
+msgid "Create a new contact"
+msgstr "יצירת איש קשר"
+
+#: data/gtk/help-overlay.ui:35
+#, fuzzy
+#| msgid "March"
+msgctxt "shortcut window"
+msgid "Search"
+msgstr "מרץ"
+
+#: data/gtk/help-overlay.ui:42
+msgctxt "shortcut window"
+msgid "Shortcut list"
+msgstr ""
+
+#: data/gtk/help-overlay.ui:49
+#, fuzzy
+#| msgid "_Quit"
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "י_ציאה"
+
+#: data/ui/contacts-avatar-selector.ui:54
+msgid "Take a Picture…"
+msgstr ""
+
+#: data/ui/contacts-avatar-selector.ui:68
+#, fuzzy
+#| msgid "Select email address"
+msgid "Select a File…"
+msgstr "נא לבחור בכתובת דוא״ל"
+
+#: data/ui/contacts-contact-pane.ui:47
+msgid "Select a contact"
+msgstr "נא לבחור באיש קשר"
+
+#: data/ui/contacts-crop-cheese-dialog.ui:27 data/ui/contacts-window.ui:214
+#: data/ui/contacts-window.ui:278 src/contacts-app.vala:119
+#: src/contacts-editor-property.vala:86
+msgid "Cancel"
+msgstr "ביטול"
+
+#: data/ui/contacts-crop-cheese-dialog.ui:49
+msgid "Take Another…"
+msgstr ""
+
+#: data/ui/contacts-crop-cheese-dialog.ui:64 data/ui/contacts-window.ui:335
+#: src/contacts-window.vala:241
+msgid "Done"
+msgstr "הסתיים"
+
+#: data/ui/contacts-editor-menu.ui:13
+#, fuzzy
+#| msgid "Change Address Book"
+msgid "Change Addressbook"
+msgstr "החלפת ספר הכתובות"
+
+#: data/ui/contacts-linked-personas-dialog.ui:12
+msgid "Linked Accounts"
+msgstr "חשבונות מקושרים"
+
+#: data/ui/contacts-linked-personas-dialog.ui:45
+msgid "You can link contacts by selecting them from the contacts list"
+msgstr "ניתן לקשר אנשי קשר על ידי בחירתם מרשימת אנשי הקשר"
+
+#: data/ui/contacts-link-suggestion-grid.ui:56
+#, fuzzy
+#| msgid "Main contacts"
+msgid "Link Contacts"
+msgstr "אנשי קשר ראשיים"
+
+#: data/ui/contacts-list-pane.ui:22
+msgid "Type to search"
+msgstr "יש להקליד כדי לחפש"
+
+#. Link refers to the verb, from linking contacts together
+#: data/ui/contacts-list-pane.ui:54
+msgid "Link"
+msgstr "קישור"
+
+#: data/ui/contacts-list-pane.ui:68
+msgid "Remove"
+msgstr "הסרה"
+
+#: data/ui/contacts-setup-window.ui:12
+msgid "Contacts Setup"
+msgstr "הגדרת אנשי קשר"
+
+#: data/ui/contacts-setup-window.ui:21
+msgid "_Quit"
+msgstr "י_ציאה"
+
+#: data/ui/contacts-setup-window.ui:26
+#, fuzzy
+#| msgid "Cancel setup"
+msgid "Cancel setup and quit"
+msgstr "ביטול הגדלה"
+
+#: data/ui/contacts-setup-window.ui:40
+#, fuzzy
+#| msgid "Done"
+msgid "_Done"
+msgstr "הסתיים"
+
+#: data/ui/contacts-setup-window.ui:44
+msgid "Setup complete"
+msgstr "הושלמה ההגדרה"
+
+#: data/ui/contacts-setup-window.ui:85
+msgid "Welcome"
+msgstr ""
+
+#: data/ui/contacts-setup-window.ui:97
+msgid ""
+"Please select your main address book: this is where new contacts will be "
+"added. If you keep your contacts in an online account, you can add them "
+"using the online accounts settings."
+msgstr ""
+
+#: data/ui/contacts-window.ui:15
+#, fuzzy
+#| msgid "Link contacts to %s"
+msgid "List contacts by:"
+msgstr "קישור אנשי הקשר אל %s"
+
+#: data/ui/contacts-window.ui:28
+#, fuzzy
+#| msgid "Enter name"
+msgid "First name"
+msgstr "נא להזין שם"
+
+#: data/ui/contacts-window.ui:35
+msgid "Surname"
+msgstr ""
+
+#: data/ui/contacts-window.ui:49
+#, fuzzy
+#| msgid "Change Address Book"
+msgid "Change Address Book…"
+msgstr "החלפת ספר הכתובות"
+
+#: data/ui/contacts-window.ui:57
+#, fuzzy
+#| msgid "Online Accounts"
+msgid "Online Accounts <sup>↗</sup>"
+msgstr "חשבונות מקוונים"
+
+#: data/ui/contacts-window.ui:73
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: data/ui/contacts-window.ui:81
+#, fuzzy
+#| msgid "_Help"
+msgid "Help"
+msgstr "ע_זרה"
+
+#: data/ui/contacts-window.ui:89
+#, fuzzy
+#| msgid "_About Contacts"
+msgid "About Contacts"
+msgstr "על _אודות אנשי הקשר של GNOME"
+
+#: data/ui/contacts-window.ui:107
+msgid "Share"
+msgstr ""
+
+#: data/ui/contacts-window.ui:114
+msgid "Edit"
+msgstr "עריכה"
+
+#: data/ui/contacts-window.ui:121 src/contacts-linked-personas-dialog.vala:74
+msgid "Unlink"
+msgstr "הפרדה"
+
+#: data/ui/contacts-window.ui:133
+msgid "Delete"
+msgstr "מחיקה"
+
+#: data/ui/contacts-window.ui:170
+#, fuzzy
+#| msgid "Create Contact"
+msgid "Create new contact"
+msgstr "יצירת איש קשר"
+
+#: data/ui/contacts-window.ui:174
+msgid "Add contact"
+msgstr "הוספת איש קשר"
+
+#: data/ui/contacts-window.ui:215
+#, fuzzy
+#| msgid "Cancel setup"
+msgid "Cancel selection"
+msgstr "ביטול הגדלה"
+
+#: data/ui/contacts-window.ui:259
+msgid "Back"
+msgstr ""
+
+#: data/ui/contacts-window.ui:397
+msgid "Loading"
+msgstr "בטעינה"
+
+#: src/contacts-accounts-list.vala:124 src/contacts-addressbook-list.vala:112
+#: src/contacts-esd-setup.vala:149
+msgid "Local Address Book"
+msgstr "ספר כתובות מקומי"
+
+#: src/contacts-app.vala:43
+msgid "Show contact with this email address"
+msgstr "הצגת איש הקשר עם כתובת דוא״ל זו"
+
+#: src/contacts-app.vala:44
+msgid "Show contact with this individual id"
+msgstr "הצגת איש קשר עם מזהה ייחודי זה"
+
+#: src/contacts-app.vala:45
+#, fuzzy
+#| msgid "Show contact with this individual id"
+msgid "Show contacts with the given filter"
+msgstr "הצגת איש קשר עם מזהה ייחודי זה"
+
+#: src/contacts-app.vala:46
+msgid "Show the current version of Contacts"
+msgstr ""
+
+#: src/contacts-app.vala:106
+#, c-format
+msgid "No contact with id %s found"
+msgstr "לא נמצא איש קשר בעל המזהה %s"
+
+#: src/contacts-app.vala:107 src/contacts-app.vala:251
+msgid "Contact not found"
+msgstr "איש הקשר לא נמצא"
+
+#: src/contacts-app.vala:117 src/contacts-editor-property.vala:84
+msgid "Change Address Book"
+msgstr "החלפת ספר הכתובות"
+
+#: src/contacts-app.vala:118
+msgid "Change"
+msgstr "שינוי"
+
+#: src/contacts-app.vala:148
+msgid ""
+"New contacts will be added to the selected address book.\n"
+"You are able to view and edit contacts from other address books."
+msgstr ""
+"אנשי קשר חדשים יתווספו לספר הכתובות הנבחר.\n"
+"ניתן להציג ולערוך אנשי קשר מספרי כתובות אחרים."
+
+#: src/contacts-app.vala:231
+msgid "translator-credits"
+msgstr ""
+"ירון שהרבני <sh.yaron@gmail.com>,‏ 2012, 2013\n"
+"יוסף אור בוצ׳קו <yoseforb@gnome.org>, ‏2013, 2014"
+
+#: src/contacts-app.vala:232
+msgid "GNOME Contacts"
+msgstr "אנשי קשר מבית GNOME"
+
+#: src/contacts-app.vala:233
+msgid "About GNOME Contacts"
+msgstr "על אודות אנשי הקשר של GNOME"
+
+#: src/contacts-app.vala:234
+msgid "Contact Management Application"
+msgstr "יישום לניהול אנשי קשר"
+
+#: src/contacts-app.vala:235
+msgid ""
+"© 2011 Red Hat, Inc.\n"
+"© 2011-2018 The Contacts Developers"
+msgstr ""
+
+#: src/contacts-app.vala:250
+#, c-format
+msgid "No contact with email address %s found"
+msgstr "לא נמצאו אנשי קשר עם כתובת הדוא״ל %s"
+
+#: src/contacts-avatar-selector.vala:107 src/contacts-avatar-selector.vala:227
+msgid "Failed to set avatar."
+msgstr ""
+
+#: src/contacts-avatar-selector.vala:187
+msgid "Browse for more pictures"
+msgstr "עיון למציאות תמונות נוספות"
+
+#: src/contacts-avatar-selector.vala:190
+msgid "_Open"
+msgstr "_פתיחה"
+
+#: src/contacts-avatar-selector.vala:190
+msgid "_Cancel"
+msgstr "_ביטול"
+
+#: src/contacts-contact-editor.vala:52
+msgid "Change avatar"
+msgstr "שינוי תמונה אישית"
+
+#: src/contacts-contact-editor.vala:73
+msgid "Add name"
+msgstr "הוספת שם"
+
+#: src/contacts-contact-list.vala:178
+msgid "Favorites"
+msgstr ""
+
+#: src/contacts-contact-list.vala:180 src/contacts-contact-list.vala:186
+msgid "All Contacts"
+msgstr "כל אנשי הקשר"
+
+#: src/contacts-contact-pane.vala:232
+msgid "No primary addressbook configured"
+msgstr "לא הוגדר ספר כתובות עיקרי"
+
+#: src/contacts-contact-pane.vala:242
+#, c-format
+msgid "Unable to create new contacts: %s"
+msgstr "לא ניתן ליצור איש קשר חדש: %s"
+
+#: src/contacts-contact-pane.vala:254
+msgid "Unable to find newly created contact"
+msgstr "לא ניתן למצוא את איש הקשר שזה עתה נוצר"
+
+#: src/contacts-contact-sheet.vala:278 src/contacts-editor-property.vala:488
+msgid "Website"
+msgstr "אתר הבית"
+
+#: src/contacts-contact-sheet.vala:295 src/contacts-editor-property.vala:498
+msgid "Nickname"
+msgstr "שם חיבה"
+
+#: src/contacts-contact-sheet.vala:301 src/contacts-editor-property.vala:563
+msgid "Birthday"
+msgstr "יום הולדת"
+
+#: src/contacts-contact-sheet.vala:308 src/contacts-editor-property.vala:526
+msgid "Note"
+msgstr "הערה"
+
+#: src/contacts-crop-cheese-dialog.vala:91
+msgid "Unable to take photo."
+msgstr ""
+
+#: src/contacts-editor-property.vala:66
+#, fuzzy
+#| msgid "May"
+msgid "Day"
+msgstr "מאי"
+
+#: src/contacts-editor-property.vala:70
+msgid "Month"
+msgstr ""
+
+#: src/contacts-editor-property.vala:74
+msgid "Year"
+msgstr ""
+
+#: src/contacts-editor-property.vala:85
+#, fuzzy
+#| msgid "Select"
+msgid "Set"
+msgstr "בחירה"
+
+#: src/contacts-editor-property.vala:137
+msgid "Street"
+msgstr "רחוב"
+
+#: src/contacts-editor-property.vala:137
+msgid "Extension"
+msgstr "שלוחה"
+
+#: src/contacts-editor-property.vala:137
+msgid "City"
+msgstr "עיר"
+
+#: src/contacts-editor-property.vala:137
+msgid "State/Province"
+msgstr "מדינה/אזור"
+
+#: src/contacts-editor-property.vala:137
+msgid "Zip/Postal Code"
+msgstr "זיפ/מיקוד"
+
+#: src/contacts-editor-property.vala:137
+msgid "PO box"
+msgstr "תיבת דואר"
+
+#: src/contacts-editor-property.vala:137
+msgid "Country"
+msgstr "מדינה"
+
+#: src/contacts-editor-property.vala:336 src/contacts-editor-property.vala:587
+msgid "Delete field"
+msgstr "מחיקת שדה"
+
+#: src/contacts-editor-property.vala:451
+#, fuzzy
+#| msgid "Select email address"
+msgid "Email address"
+msgstr "נא לבחור בכתובת דוא״ל"
+
+#: src/contacts-editor-property.vala:452
+msgid "Add email"
+msgstr "הוספת דואר אלקטרוני"
+
+#: src/contacts-editor-property.vala:469
+#, fuzzy
+#| msgid "Enter phone number"
+msgid "Phone number"
+msgstr "נא להזין מספר טלפון"
+
+#: src/contacts-editor-property.vala:470
+msgid "Add number"
+msgstr "הוספת מספר"
+
+#: src/contacts-editor-property.vala:489
+msgid "https://example.com"
+msgstr ""
+
+#: src/contacts-editor-property.vala:565 src/contacts-editor-property.vala:596
+#, fuzzy
+#| msgid "Birthday"
+msgid "Set Birthday"
+msgstr "יום הולדת"
+
+#: src/contacts-editor-property.vala:614
+msgid "Address"
+msgstr "כתובת"
+
+#: src/contacts-esd-setup.vala:152 src/contacts-esd-setup.vala:167
+#: src/contacts-utils.vala:497
+msgid "Google"
+msgstr "Google"
+
+#: src/contacts-esd-setup.vala:164
+msgid "Local Contact"
+msgstr "איש קשר מקומי"
+
+#: src/contacts-im-service.vala:32
+msgid "AOL Instant Messenger"
+msgstr "AOL Instant Messenger"
+
+#: src/contacts-im-service.vala:33
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/contacts-im-service.vala:34
+msgid "Gadu-Gadu"
+msgstr "Gadu-Gadu"
+
+#: src/contacts-im-service.vala:35
+msgid "Google Talk"
+msgstr "Google Talk"
+
+#: src/contacts-im-service.vala:36
+msgid "Novell Groupwise"
+msgstr "Novell Groupwise"
+
+#: src/contacts-im-service.vala:37
+msgid "ICQ"
+msgstr "ICQ"
+
+#: src/contacts-im-service.vala:38
+msgid "IRC"
+msgstr "IRC"
+
+#: src/contacts-im-service.vala:39
+msgid "Jabber"
+msgstr "Jabber"
+
+#: src/contacts-im-service.vala:40
+msgid "Livejournal"
+msgstr "Livejournal"
+
+#: src/contacts-im-service.vala:41
+msgid "Local network"
+msgstr "רשת מקומית"
+
+#: src/contacts-im-service.vala:42
+msgid "Windows Live Messenger"
+msgstr "Windows Live Messenger"
+
+#: src/contacts-im-service.vala:43
+msgid "MySpace"
+msgstr "MySpace"
+
+#: src/contacts-im-service.vala:44
+msgid "MXit"
+msgstr "MXit"
+
+#: src/contacts-im-service.vala:45
+msgid "Napster"
+msgstr "Napster"
+
+#: src/contacts-im-service.vala:46
+msgid "Ovi Chat"
+msgstr "Ovi Chat"
+
+#: src/contacts-im-service.vala:47
+msgid "Tencent QQ"
+msgstr "Tencent QQ"
+
+#: src/contacts-im-service.vala:48
+msgid "IBM Lotus Sametime"
+msgstr "IBM Lotus Sametime"
+
+#: src/contacts-im-service.vala:49
+msgid "SILC"
+msgstr "SILC"
+
+#: src/contacts-im-service.vala:50
+msgid "sip"
+msgstr "sip"
+
+#: src/contacts-im-service.vala:51
+msgid "Skype"
+msgstr "Skype"
+
+#: src/contacts-im-service.vala:52
+msgid "Telephony"
+msgstr "Telephony"
+
+#: src/contacts-im-service.vala:53
+msgid "Trepia"
+msgstr "Trepia"
+
+#: src/contacts-im-service.vala:54 src/contacts-im-service.vala:55
+msgid "Yahoo! Messenger"
+msgstr "Yahoo! Messenger"
+
+#: src/contacts-im-service.vala:56
+msgid "Zephyr"
+msgstr "Zephyr"
+
+#: src/contacts-link-suggestion-grid.vala:54
+#, c-format
+msgid "Is this the same person as %s from %s?"
+msgstr ""
+
+#: src/contacts-link-suggestion-grid.vala:57
+#, c-format
+msgid "Is this the same person as %s?"
+msgstr ""
+
+#: src/contacts-type-descriptor.vala:85 src/contacts-typeset.vala:261
+msgid "Other"
+msgstr "אחר"
+
+#. List most specific first, always in upper case
+#: src/contacts-typeset.vala:210 src/contacts-typeset.vala:230
+#: src/contacts-typeset.vala:256 src/contacts-typeset.vala:258
+msgid "Home"
+msgstr "בית"
+
+#: src/contacts-typeset.vala:211 src/contacts-typeset.vala:231
+#: src/contacts-typeset.vala:250 src/contacts-typeset.vala:252
+msgid "Work"
+msgstr "עבודה"
+
+#. List most specific first, always in upper case
+#: src/contacts-typeset.vala:229
+msgid "Personal"
+msgstr "אישי"
+
+#. List most specific first, always in upper case
+#: src/contacts-typeset.vala:249
+msgid "Assistant"
+msgstr "עוזר/ת"
+
+#: src/contacts-typeset.vala:251
+msgid "Work Fax"
+msgstr "פקס בעבודה"
+
+#: src/contacts-typeset.vala:253
+msgid "Callback"
+msgstr "טלפון לחזרה"
+
+#: src/contacts-typeset.vala:254
+msgid "Car"
+msgstr "רכב"
+
+#: src/contacts-typeset.vala:255
+msgid "Company"
+msgstr "חברה"
+
+#: src/contacts-typeset.vala:257
+msgid "Home Fax"
+msgstr "פקס בבית"
+
+#: src/contacts-typeset.vala:259
+msgid "ISDN"
+msgstr "ISDN"
+
+#: src/contacts-typeset.vala:260
+msgid "Mobile"
+msgstr "נייד"
+
+#: src/contacts-typeset.vala:262
+msgid "Fax"
+msgstr "פקס"
+
+#: src/contacts-typeset.vala:263
+msgid "Pager"
+msgstr "זימונית"
+
+#: src/contacts-typeset.vala:264
+msgid "Radio"
+msgstr "רדיו"
+
+#: src/contacts-typeset.vala:265
+msgid "Telex"
+msgstr "טלקס"
+
+#. To translators: TTY is Teletypewriter
+#: src/contacts-typeset.vala:267
+msgid "TTY"
+msgstr "TTY"
+
+#: src/contacts-utils.vala:495
+msgid "Google Circles"
+msgstr "מעגלים של Google"
+
+#: src/contacts-window.vala:204
+#, c-format
+msgid "%d Selected"
+msgid_plural "%d Selected"
+msgstr[0] "אחד נבחר"
+msgstr[1] "%d נבחרו"
+msgstr[2] "2 נבחרו"
+
+#: src/contacts-window.vala:241
+msgid "Add"
+msgstr "הוספה"
+
+#: src/contacts-window.vala:271
+#, c-format
+msgid "Editing %s"
+msgstr "עריכת %s"
+
+#: src/contacts-window.vala:298 src/contacts-window.vala:480
+#: src/contacts-window.vala:504 src/contacts-window.vala:548
+msgid "_Undo"
+msgstr "_ביטול"
+
+#: src/contacts-window.vala:299
+#, fuzzy
+#| msgid "%d contacts linked"
+#| msgid_plural "%d contacts linked"
+msgid "Contacts unlinked"
+msgstr "איש קשר אחד חובר"
+
+#: src/contacts-window.vala:358
+msgid "Unmark as favorite"
+msgstr ""
+
+#: src/contacts-window.vala:359
+msgid "Mark as favorite"
+msgstr ""
+
+#: src/contacts-window.vala:373
+msgid "New Contact"
+msgstr "איש קשר חדש"
+
+#: src/contacts-window.vala:476
+#, c-format
+msgid "%d contacts linked"
+msgid_plural "%d contacts linked"
+msgstr[0] "איש קשר אחד חובר"
+msgstr[1] "%d אנשי קשר חוברו"
+msgstr[2] "2 אנשי קשר חוברו"
+
+#: src/contacts-window.vala:499
+#, fuzzy, c-format
+#| msgid "Select a contact"
+msgid "Deleted contact %s"
+msgstr "נא לבחור באיש קשר"
+
+#: src/contacts-window.vala:501
+#, c-format
+msgid "%d contact deleted"
+msgid_plural "%d contacts deleted"
+msgstr[0] "איש קשר אחד נמחק"
+msgstr[1] "%d אנשי קשר נמחקו"
+msgstr[2] "2 אנשי קשר נמחקו"
+
+#: src/contacts-window.vala:544
+#, c-format
+msgid "%s linked to %s"
+msgstr "%s מקושר אל %s"
+
+#: src/contacts-window.vala:546
+#, c-format
+msgid "%s linked to the contact"
+msgstr "%s מקושר אל איש הקשר"
+
+#: src/org.gnome.Contacts.gschema.xml:6
+msgid "First-time setup done."
+msgstr "First-time setup done."
+
+#: src/org.gnome.Contacts.gschema.xml:7
+#, fuzzy
+#| msgid "Set to true when the user ran the first-time setup wizard."
+msgid "Set to true after the user has run the first-time setup wizard."
+msgstr "Set to true when the user ran the first-time setup wizard."
+
+#: src/org.gnome.Contacts.gschema.xml:11
+msgid "Sort contacts on surname."
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:12
+msgid ""
+"If this is set to true, the list of contacts will be sorted on their "
+"surnames. Otherwise, it will be sorted on the first names of the contacts."
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:19
+msgid "The default height of the contacts window."
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:20
+msgid ""
+"If the window size has not been changed by the user yet this will be used as "
+"the initial value for the height of the window."
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:26
+msgid "The default width of the contacts window."
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:27
+msgid ""
+"If the window size has not been changed by the user yet this will be used as "
+"the initial value for the width of the window."
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:32
+msgid "Is the window maximized?"
+msgstr ""
+
+#: src/org.gnome.Contacts.gschema.xml:33
+msgid "Stores if the window is currently maximized."
+msgstr ""
+
+#~ msgid "Install GNOME Maps to open location."
+#~ msgstr "יש להתקין את מפות GNOME על מנת לפתוח מיקום."
+
+#~ msgid "— contact management"
+#~ msgstr "— ניהול אנשי קשר"
+
+#~ msgid "Select Picture"
+#~ msgstr "נא לבחור תמונה"
+
+#~ msgid "January"
+#~ msgstr "ינואר"
+
+#~ msgid "February"
+#~ msgstr "פברואר"
+
+#~ msgid "April"
+#~ msgstr "אפריל"
+
+#~ msgid "June"
+#~ msgstr "יוני"
+
+#~ msgid "July"
+#~ msgstr "יולי"
+
+#~ msgid "August"
+#~ msgstr "אוגוסט"
+
+#~ msgid "September"
+#~ msgstr "ספטמבר"
+
+#~ msgid "October"
+#~ msgstr "אוקטובר"
+
+#~ msgid "November"
+#~ msgstr "נובמבר"
+
+#~ msgid "December"
+#~ msgstr "דצמבר"
+
+#~ msgid "New Detail"
+#~ msgstr "פרט חדש"
+
+#~ msgid "Remove Contact"
+#~ msgstr "הסרת איש קשר"
+
+#~ msgid "Does %s from %s belong here?"
+#~ msgstr "האם %s מ־%s קשור לכאן?"
+
+#~ msgid "Do these details belong to %s?"
+#~ msgstr "האם כל הפרטים האלו קשורים אל %s?"
+
+#~ msgid "Yes"
+#~ msgstr "כן"
+
+#~ msgid "No"
+#~ msgstr "לא"
+
+#~ msgid "You need to enter some data"
+#~ msgstr "יש להזין כמה נתונים"
+
+#~ msgid "Unexpected internal error: created contact was not found"
+#~ msgstr "שגיאה פנימית בלתי צפויה: איש הקשר שנוצר לא נמצא"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "No results matched search"
+#~ msgstr "אין תוצאות שתואמות לחיפוש"
+
+#~ msgid "Suggestions"
+#~ msgstr "הצעות"
+
+#~ msgid "Other Contacts"
+#~ msgstr "אנשי קשר אחרים"
+
+#~ msgid "Contact deleted: \"%s\""
+#~ msgstr "איש הקשר נמחק: „%s“"
+
+#~ msgid "_Change Address Book..."
+#~ msgstr "החלפת ספר ה_כתובות..."
+
+#~ msgid "_About"
+#~ msgstr "על _אודות"
+
+#~ msgid "Home email"
+#~ msgstr "כתובת דוא״ל בבית"
+
+#~ msgid "Work email"
+#~ msgstr "כתובת דוא״ל בעבודה"
+
+#~ msgid "Mobile phone"
+#~ msgstr "טלפון נייד"
+
+#~ msgid "Home phone"
+#~ msgstr "טלפון בבית"
+
+#~ msgid "Work phone"
+#~ msgstr "טלפון בעבודה"
+
+#~ msgid "Home address"
+#~ msgstr "כתובת בבית"
+
+#~ msgid "Work address"
+#~ msgstr "כתובת בעבודה"
+
+#~ msgid "Notes"
+#~ msgstr "הערות"
+
+#~ msgid ""
+#~ "New contacts will be added to the selected address book. You are able to "
+#~ "view and edit contacts from other address books."
+#~ msgstr ""
+#~ "אנשי קשר חדשים יתווספו לספר הכתובות הנבחר. ניתן להציג ולערוך אנשי קשר "
+#~ "מספרי כתובות אחרים."
+
+#~ msgid "Selection mode"
+#~ msgstr "מצב בחירה"
+
+#~ msgid "Select Address Book"
+#~ msgstr "בחירת ספר כתובות"
+
+#~ msgid "View subset"
+#~ msgstr "הצגת תת־סדרה"
+
+#~ msgid "View contacts subset"
+#~ msgstr "צפייה בתת הסדרות של אנשי הקשר"
+
+#~ msgid "Personal email"
+#~ msgstr "כתובת דוא״ל אישית"
+
+#~ msgid "Google Other Contact"
+#~ msgstr "אנשי קשר אחרים של Google"
+
+#~ msgid ""
+#~ "Add or \n"
+#~ "select a picture"
+#~ msgstr ""
+#~ "הוספה\n"
+#~ "או בחירה בתמונה"
+
+#~ msgid "Contact Name"
+#~ msgstr "שם איש הקשר"
+
+#~ msgid "Email"
+#~ msgstr "דוא״ל"
+
+#~ msgid "Phone"
+#~ msgstr "טלפון"
+
+#~ msgid "You must specify a contact name"
+#~ msgstr "עליך לציין שם לאיש הקשר"
+
+#~ msgid "Please select your primary contacts account"
+#~ msgstr "נא לבחור את חשבון אנשי הקשר העיקרי שלך"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google Profile"
+#~ msgstr "פרופיל Google"
+
+#~ msgid "Primary Contacts Account"
+#~ msgstr "חשבון אנשי הקשר העיקרי"
+
+#~ msgid "Close"
+#~ msgstr "סגירה"
+
+#~ msgid "%s - Linked Accounts"
+#~ msgstr "%s - חשבונות מקושרים"
+
+#~ msgid "View"
+#~ msgstr "הצגה"
+
+#~ msgid "Add an Online Account"
+#~ msgstr "הוספת חשבון מקוון"
+
+#~ msgid "Keep contacts on this computer only"
+#~ msgstr "לשמור את אנשי הקשר על מחשב זה בלבד"
+
+#~ msgid "New"
+#~ msgstr "חדש"
+
+#~ msgid ""
+#~ "Welcome to Contacts! Please select where you want to keep your address "
+#~ "book:"
+#~ msgstr ""
+#~ "ברוך בואך לתכנית אנשי הקשר! נא לבחור היכן ברצונך לשמור את ספר הכתובות שלך:"
+
+#~ msgid "Online Account Settings"
+#~ msgstr "הגדרות חשבון מקוון"
+
+#~ msgid "Setup an online account or use a local address book"
+#~ msgstr "באפשרותך להגדיר חשבון מקוון או להשתמש בספר כתובות מקומי"
+
+#~ msgid "Use Local Address Book"
+#~ msgstr "שימוש בספר כתובות מקומי"
+
+#~ msgctxt "contacts link action"
+#~ msgid "Link"
+#~ msgstr "קישור"
+
+#~ msgctxt "Addresses on the Web"
+#~ msgid "Links"
+#~ msgstr "קישורים"
+
+#~ msgctxt "Web address"
+#~ msgid "Link"
+#~ msgstr "קישור"
+
+#~ msgid "Chat"
+#~ msgstr "שיחה"
+
+#~ msgid "Addresses"
+#~ msgstr "כתובות"
+
+#~ msgid "Add detail..."
+#~ msgstr "הוספת פרט..."
+
+#~ msgid "Add to My Contacts"
+#~ msgstr "הוספה לאנשי הקשר שלי"
+
+#~ msgid "Select detail to add to %s"
+#~ msgstr "בחירת פרט להוספה לאיש הקשר %s"
+
+#~ msgid "Select what to call"
+#~ msgstr "נא לבחור לאן להתקשר"
+
+#~ msgid "Add/Remove Linked Contacts..."
+#~ msgstr "הוספה/הסרה של אנשי קשרים מאוגדים..."
+
+#~ msgid "Custom..."
+#~ msgstr "התאמה אישית..."
+
+#~ msgid "Unknown status"
+#~ msgstr "מצב בלתי ידוע"
+
+#~ msgid "Offline"
+#~ msgstr "מנותק"
+
+#~ msgid "Error"
+#~ msgstr "שגיאה"
+
+#~ msgid "Available"
+#~ msgstr "זמין"
+
+#~ msgid "Away"
+#~ msgstr "מרוחק"
+
+#~ msgid "Extended away"
+#~ msgstr "מרוחק לאורך זמן"
+
+#~ msgid "Busy"
+#~ msgstr "עסוק"
+
+#~ msgid "Hidden"
+#~ msgstr "מוסתר"
+
+#~ msgid "<span weight='bold'>Link contacts to %s</span>"
+#~ msgstr "<span weight='bold'>קישור אנשי קשר אל %s</span>"
+
+#~ msgid "Browse for more pictures..."
+#~ msgstr "עיון למציאת תמונות נוספות..."
+
+#~ msgid "Add contact data to %s\n"
+#~ msgstr "הוספת נתוני איש קשר אל %s\n"
+
+#~ msgid "Welcome to Contacts!"
+#~ msgstr "ברוך בואך ליישום אנשי הקשר!"
+
+#~ msgctxt "link-contacts-button"
+#~ msgid "Link"
+#~ msgstr "קישור"
+
+#~ msgid "Currently linked:"
+#~ msgstr "מקושרים נכון לעכשיו:"
+
+#~ msgid ""
+#~ "Connect to an account,\n"
+#~ "import or add contacts"
+#~ msgstr ""
+#~ "התחברות לחשבון,\n"
+#~ "יבוא או הוספת אנשי קשר"
+
+#~ msgid "Enter nickname"
+#~ msgstr "נא להזין שם חיבה"
+
+#~ msgid "Alias"
+#~ msgstr "כינוי"
+
+#~ msgid "Enter alias"
+#~ msgstr "נא להזין כינוי"
+
+#~ msgid "Address copied to clipboard"
+#~ msgstr "הכתובת הועתקה ללוח הגזירים"
+
+#~ msgid "Department"
+#~ msgstr "מחלקה"
+
+#~ msgid "Profession"
+#~ msgstr "התמחות"
+
+#~ msgid "Title"
+#~ msgstr "תפקיד"
+
+#~ msgid "Manager"
+#~ msgstr "מנהל"
+
+#~ msgid "More"
+#~ msgstr "עוד"
